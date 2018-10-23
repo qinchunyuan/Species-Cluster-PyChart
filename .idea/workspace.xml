@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py" line="14" />
+    <bookmark url="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py" line="15" />
+    <bookmark url="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py" line="120" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="101320a9-daf1-4c06-8bcf-ee20e2ed2373" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/s_name_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/s_name_tax_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_No_01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_No_02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_name_02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_name_cp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_name_cp.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/species_tax_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/Delete.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/PRIDE_CLUSTER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/SP_TEST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/json_01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/json_02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/projectsInfo/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/GetSpeciesInfofromPRIDE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Download_PRIDE_Prjs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/Analyser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/json_02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/prj_taxid_name.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/prj_taxid_name_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/prj_taxid_name_02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/prj_taxid_name_03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/prj_taxid_name_04.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/species_name_02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/species_name_03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/species_num_02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/taxid_name.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/test_02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/PRIDE_cluster_project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/small_Key-Value" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/species_name_02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/test_01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/species_No_02" beforeDir="false" afterPath="$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/Data/species_No_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/test_02" beforeDir="false" afterPath="$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/Data/test_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/speciesPythonChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="speciesPythonChart.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#14#24#0" expanded="true" />
+                <element signature="e#192#314#0" />
+                <element signature="e#722#937#0" />
+                <element signature="e#1192#1620#0" />
+                <element signature="e#1811#2193#0" />
+                <element signature="e#2507#2768#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="small_Key-Value" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/small_Key-Value">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PRIDE_cluster_project.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/PRIDE_cluster_project.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/test">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GetSpeciesInfofromPRIDE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Download_PRIDE_Prjs/GetSpeciesInfofromPRIDE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+              <folding>
+                <element signature="e#1624#2310#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bak" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/bak">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Analyser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/Analyser.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CountSpecies-PRIDE_CLUSTER_PROJECTS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_01" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/test_01">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="species_No_02" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/Data/species_No_02">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>29911</find>
+      <find>1351</find>
+      <find>226185</find>
+      <find>90690</find>
+      <find>90461</find>
+      <find>10116</find>
+      <find>186806</find>
+      <find>NCBITaxon:630</find>
+      <find>420245</find>
+      <find>435258</find>
+      <find>347515</find>
+      <find>2</find>
+      <find>481672</find>
+      <find>431275</find>
+      <find>32644</find>
+      <find>135062</find>
+      <find>41856</find>
+      <find>31646</find>
+      <find>11786</find>
+      <find>10090</find>
+      <find>9913</find>
+      <find>1148</find>
+      <find>1143</find>
+      <find>7460</find>
+      <find>7070</find>
+      <find>7227</find>
+      <find>7029</find>
+      <find>7091</find>
+      <find>444dc</find>
+      <find>444</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Data/speciesInfo.csv" />
+        <option value="$PROJECT_DIR$/src/Data/cluster-head100_sort_01" />
+        <option value="$PROJECT_DIR$/src/Data/tes.csv" />
+        <option value="$PROJECT_DIR$/src/Data/test.csv" />
+        <option value="$PROJECT_DIR$/src/Data/pages.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/qt_backport/__init__.py" />
+        <option value="$PROJECT_DIR$/src/test.html" />
+        <option value="$PROJECT_DIR$/src/setPage.py" />
+        <option value="$PROJECT_DIR$/src/Data/prepareDjango.py" />
+        <option value="$PROJECT_DIR$/src/Data/test" />
+        <option value="$PROJECT_DIR$/src/Data/species_No_01" />
+        <option value="$PROJECT_DIR$/src/Pratise.py" />
+        <option value="$PROJECT_DIR$/src/speciesPythonChart.py" />
+        <option value="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="630" />
+    <option name="y" value="30" />
+    <option name="width" value="1107" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpeciesPyChart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpeciesPyChart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpeciesPyChart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpeciesPyChart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpeciesPyChart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpeciesPyChart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Merge_Taxids_and_SpeciesName" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Species_of_AllCluster_Bar_and_Pie" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Species-Analyser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Merge_Taxids_and_SpeciesName" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Download_PRIDE_Prjs" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Species_of_AllPrjs_Pie" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src" />
+      <recent name="C:\Users\qincy\PycharmProjects\SpeciesPyChart\src\Data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="speciesPythonChart" type="PythonConfigurationType" factoryName="Python">
+      <module name="SpeciesPyChart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\qincy\PycharmProjects\SpeciesPyChart\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="101320a9-daf1-4c06-8bcf-ee20e2ed2373" name="Default" comment="" />
+      <created>1537428596447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537428596447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7644493" visible="true" weight="0.2028451" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50105375" side_tool="true" weight="0.519084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49894625" weight="0.519084" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.2355507" side_tool="true" visible="true" weight="0.2028451" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Data/prepareDjango.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/setPage.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/prepareDjango.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <element signature="e#192#314#0" />
+            <element signature="e#722#937#0" />
+            <element signature="e#1192#1620#0" />
+            <element signature="e#1811#2193#0" />
+            <element signature="e#2507#2768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/speciesInfo.csv" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster-head100_sort_01" />
+    <entry file="file://$PROJECT_DIR$/src/setPage.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/speciesInfo.csv" />
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <element signature="e#192#314#0" />
+            <element signature="e#722#937#0" />
+            <element signature="e#1192#1620#0" />
+            <element signature="e#1811#2193#0" />
+            <element signature="e#2507#2768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/speciesInfo.csv" />
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <element signature="e#192#314#0" />
+            <element signature="e#722#937#0" />
+            <element signature="e#1192#1620#0" />
+            <element signature="e#1811#2193#0" />
+            <element signature="e#2507#2768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="1784" selection-start-line="1784" selection-end-line="1784" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/qt_backport/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages.py" />
+    <entry file="file://$PROJECT_DIR$/src/user_list.html" />
+    <entry file="file://$PROJECT_DIR$/src/setPage.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_new_sort" />
+    <entry file="file://$PROJECT_DIR$/src/Data/prepareDjango.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/test.csv" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_speciesInfo_01_new_sort" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/speciesInfo.csv" />
+    <entry file="file://$PROJECT_DIR$/src/Data/species_No" />
+    <entry file="file://$PROJECT_DIR$/../DLoadSpeciesInfofromPRIDE/src/Data/TaxonInfo/species_No_01" />
+    <entry file="file://$PROJECT_DIR$/../PRIDE_Projects_Info_Analyser/src/Pratise.py" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster-head100_sort_01" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_new_01" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_new_01_sort" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_speciesInfo_01_new_sort.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_speciesInfo_01_sort" />
+    <entry file="file://$PROJECT_DIR$/src/Data/cluster_speciesInfo_new_02_sort" />
+    <entry file="file://$PROJECT_DIR$/src/Data/test" />
+    <entry file="file://$PROJECT_DIR$/src/Data/new.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/Data/test_02">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1491">
+          <caret line="9808" column="65" selection-start-line="9808" selection-start-column="65" selection-end-line="9808" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/Data/species_No_02">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/small_Key-Value">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/json_02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/test_01">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/Data/PRIDE_cluster_project.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Download_PRIDE_Prjs/Data/TaxonInfo/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllPrjs_Pie/CountSpecies-PRIDE_CLUSTER_PROJECTS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species_of_AllCluster_Bar_and_Pie/speciesPythonChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <element signature="e#192#314#0" />
+            <element signature="e#722#937#0" />
+            <element signature="e#1192#1620#0" />
+            <element signature="e#1811#2193#0" />
+            <element signature="e#2507#2768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Download_PRIDE_Prjs/GetSpeciesInfofromPRIDE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+          <folding>
+            <element signature="e#1624#2310#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/data/bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_Taxids_and_SpeciesName/Analyser.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
